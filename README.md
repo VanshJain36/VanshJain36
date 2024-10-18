@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VanshJain36
-- 👀 I’m interested in competitive coding and testing/debug
-- 🌱 I’m currently learning C
+- 👀 I’m interested in ui/ux designing and front-end development 
+- 🌱 I’m currently learning Figma, HTML, CSS ,JS.
 - 📫 you can reach me at VANSHKRJAIN@GMAIL.COM
 
 <!---
